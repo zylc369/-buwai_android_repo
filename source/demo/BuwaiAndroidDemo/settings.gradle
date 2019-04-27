@@ -1,0 +1,5 @@
+include ':map', ':common_ui', ':app'
+
+project(':map').projectDir = new File('../../library/map')
+project(':common_ui').projectDir = new File('../../library/common_ui')
+
