@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">不歪的Demo</string>
+    <string name="add_position">添加位置</string>
+    <string name="item_application_name">应用名称</string>
+    <string name="choice_app">选择应用</string>
+    <string name="simulator_position">模拟定位</string>
+    <string name="delete">删除</string>
+    <string name="pass_detection">过检测</string>
+    <string name="switch_on">开</string>
+    <string name="switch_off">关</string>
 </resources>
