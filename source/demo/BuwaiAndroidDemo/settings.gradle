@@ -1,5 +1,5 @@
-include ':map', ':common_ui', ':app', ':commonslang3'
+include ':map', ':commonsui', ':app', ':commonslang3'
 
 project(':map').projectDir = new File('../../library/map')
-project(':common_ui').projectDir = new File('../../library/common_ui')
+project(':commonsui').projectDir = new File('../../library/commonsui')
 
